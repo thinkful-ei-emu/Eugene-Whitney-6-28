@@ -1,6 +1,6 @@
 import React from "react";
 import Total from './Total'
-
+import './Summary.css';
 // Summary.js (on right of page)
 class Summary extends React.Component {
 

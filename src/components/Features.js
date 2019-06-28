@@ -1,6 +1,6 @@
 import React from 'react';
 import FeatureItem from './FeatureItem';
-import '../App.css';
+import './Features.css';
 
 function Features(props) {
   // console.log(props.updateFeature);

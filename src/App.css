@@ -20,7 +20,7 @@ main {
   padding: 4px;
 }
 
-.main__summary {
+/* .main__summary {
   flex: 2;
   box-shadow: 0 0 1px 1px rgba(0,0,0,0.2);
   margin: 2px;
@@ -68,9 +68,9 @@ main {
 .summary__total__value {
   flex: 1;
   color: red;
-}
+} */
 
-.feature__list {
+/* .feature__list {
   list-style: none;
 }
 
@@ -89,6 +89,6 @@ main {
 
 .feature__selected {
   background: #DEDEDE;
-}
+} */
 
 

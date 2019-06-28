@@ -1,5 +1,5 @@
 import React from 'react'
-import '../App.css'
+import './Total.css'
 
 function Total(props) {
  console.log(props)
